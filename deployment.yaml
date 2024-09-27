@@ -1,0 +1,5 @@
+spec:
+      containers:
+      - name: spring-boot-docker
+        image: javalove93/spring-boot-docker:jenkins
+
