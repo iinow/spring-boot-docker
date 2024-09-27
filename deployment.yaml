@@ -1,0 +1,5 @@
+spec:
+      containers:
+      - name: spring-boot-docker
+        image: segeg/spring-boot-docker:jenkins
+
